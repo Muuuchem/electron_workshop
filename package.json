@@ -1,0 +1,27 @@
+{
+  "name": "Demo_electron",
+  "version": "1.0.0",
+  "description": "Demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Muuuchem/electron_workshop.git"
+  },
+  "keywords": [
+    "electron"
+  ],
+  "author": "Tyler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Muuuchem/electron_workshop/issues"
+  },
+  "homepage": "https://github.com/Muuuchem/electron_workshop#readme",
+  "dependencies": {
+    "electron": "^1.7.5",
+    "monaco-loader": "^0.8.2"
+  }
+}
